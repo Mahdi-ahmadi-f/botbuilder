@@ -1,23 +1,18 @@
-# محیط مجازی
 venv/
 
-# فایل محرمانه
 .env
 
-# پایتون
 __pycache__/
 *.pyc
 *.pyo
 *.pyd
 .Python
 
-# جنگو
 *.log
 local_settings.py
 db.sqlite3
 media/
 
-# IDE
 .vscode/
 .idea/
 *.swp
